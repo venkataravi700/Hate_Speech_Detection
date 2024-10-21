@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/venkatatavi700/Hate_Speech_Detection.git
+git clone https://github.com/venkataravi700/Hate_Speech_Detection.git
 Install the required packages:
 
 bash
